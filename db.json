@@ -6,9 +6,20 @@
   "apaernet1" : [
   
     {
-      "one": 1,
-     "two": 2 
+  
+
+  
+  "room1":[
+    {
+      "pictures" : [],
+  "metersSquared" :  36 
     }
+  ] 
+  
+ 
+  
+    
+}
     
 
     ]
