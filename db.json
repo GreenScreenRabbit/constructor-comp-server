@@ -44,8 +44,17 @@
      ] 
       
       
-    }
+    },
     
+    
+    {
+      "kitchen":[
+    {
+  "pictures" : [],
+  "metersSquared" : 26 
+    }
+  ] 
+    }
     
     
     
