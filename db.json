@@ -10,9 +10,7 @@
     {
  
   
-  "rooms":[ 
-  
-    {
+
   
   "room1":[
     {
@@ -21,26 +19,7 @@
     },
   ] ,
   
-  "room2":[
-    {
-  "pictures" : [],
-  "metersSquared" :  48 ,
-    },
-  ] ,
-  
-  "corridor":[
-    {
-  "pictures" : [],
-  "metersSquared" : 12 ,
-    },
-  ] ,
-  
-  "kitchen":[
-    {
-  "pictures" : [],
-  "metersSquared" : 26 ,
-    },
-  ] ,
+ 
   
     }
       
