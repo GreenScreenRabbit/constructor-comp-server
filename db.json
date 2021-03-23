@@ -23,12 +23,12 @@
     
     
     {
-        "room1": [
-          {
-            "pictures": [],
-            "metersSquared": 36
-          }
-        ]
+      "room2":[
+    {
+  "pictures" : [],
+  "metersSquared" :  48 
+    }
+  ] 
       
       
     }
