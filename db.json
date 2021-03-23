@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+
+"apartments" : [
+
+  {
+  
+"one":1
+    
+  },
+  
   ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    
+},
