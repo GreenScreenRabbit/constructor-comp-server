@@ -6,7 +6,7 @@
   
   "apaernet1" : [
     {
-      { "price" :120 }
+      { "price" :120 },
       "rooms": [
         {
       "one": 1,
