@@ -1,11 +1,22 @@
 {
-  "posts": [
+
+"apartments" : [
+
+  {
+  
+  "apaernet1" : [
     {
-      "id": 1,
-      "title": "hello"
+      "one": 1,
+     "two": 2 
     }
-  ],
-  "profile": {
-    "name": "typicode"
+    ]
+    
   }
+  
+  ]
+    
+
+
+
 }
+
