@@ -15,7 +15,7 @@
   
   
   "room1":[
-  "pictures" : [],
+    {"pictures" : []},
   "metersSquared" :  36 ,
   ] ,
   
