@@ -1,4 +1,5 @@
 {
+
 "apartments" : [
 
   {
@@ -6,30 +7,9 @@
   "apaernet1" : [
   
     {
-  
-
-  
- "rooms":[ 
-  
-    {
-  
-  "room1":[
-    {
-      "pictures" : [],
-  "metersSquared" :  36 
+      "one": 1,
+     "two": 2 
     }
-  ] 
-  
- 
-  
-    }
-      
-  ]
-  
- 
-  
-    
-}
     
 
     ]
@@ -38,5 +18,5 @@
   
   ]
     
-    
-}
+},
+
