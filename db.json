@@ -6,6 +6,8 @@
   
   "apaernet1" : [
   
+    {
+    
   "metersSquared": 122 ,
   
   "rooms":{ 
@@ -34,6 +36,7 @@
   
   },
   
+  },
   
   ],
 
