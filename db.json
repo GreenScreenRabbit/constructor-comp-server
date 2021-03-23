@@ -25,21 +25,21 @@
   "pictures" : [],
   "metersSquared" :  48 ,
     }
-  ] 
+  ] ,
   
   "corridor":[
     {
   "pictures" : [],
   "metersSquared" : 12 ,
     }
-  ] 
+  ] ,
   
   "kitchen":[
     {
   "pictures" : [],
   "metersSquared" : 26 ,
     }
-  ] 
+  ] ,
   
     }
       
