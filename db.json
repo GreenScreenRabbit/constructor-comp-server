@@ -6,7 +6,8 @@
   
   "apaernet1" : [
     
-    { "price" :120 },
+    { "price" :120 000},
+    {"metersSquared" : 122},
     
     {
       
@@ -74,11 +75,75 @@
     {
   "room1":[
     {
-    "picture": [],
+    "pictures": [],
     "metersSquared" : 26  
     }
     ]
-    }
+    },
+      
+      
+      {
+      "room2":[
+      {
+      
+      "pictures": [],
+       "metersSquared" : 48
+      
+      
+       }
+      ]
+     },
+      
+      {  
+      "room3":[
+        {
+      "pictures": [],
+         "metersSquared" : 72
+    
+        }
+    ]
+      },
+      
+      
+      {
+      "coridor" : [
+        {
+          "pictures": [],
+          "metersSquared" : 24
+          
+          
+          
+        }
+      ]
+      
+      },
+      
+      
+      {
+      "kitchen":[
+        {
+          "pictures":[],
+          "metersSquared" : 40
+          
+          
+        }
+      ]
+      
+        
+        
+        
+        
+        
+      
+      
+      
+      }
+      
+      
+      
+      
+      
+      
     
     
   ]
