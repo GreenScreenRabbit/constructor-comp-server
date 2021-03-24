@@ -69,8 +69,111 @@
     
 
 
-    ]
+    ],
     
+
+    
+        "apaernet2" : [
+       
+           
+           {
+           "rooms": [
+           {
+         "room1":[
+           {
+           "picture": [],
+           "metersSquared" : 26 
+         
+         }
+           
+           ]
+         },
+
+
+
+
+         {
+            "room2":[
+            {
+            
+            "pictures": [],
+             "metersSquared" : 48
+            
+            
+             }
+            ]
+           },
+            
+            {  
+            "room3":[
+              {
+            "pictures": [],
+               "metersSquared" : 72
+          
+              }
+          ]
+            },
+            
+            
+            {
+            "coridor" : [
+              {
+                "pictures": [],
+                "metersSquared" : 24
+                
+                
+                
+              }
+            ]
+            
+            },
+            
+            
+            {
+            "kitchen":[
+              {
+                "pictures":[],
+                "metersSquared" : 40
+                
+                
+              }
+            ]
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ]
+         }
+         
+         ]
+       
+        
 
 
 
@@ -100,6 +203,5 @@
 }
     
     
-
 
 
