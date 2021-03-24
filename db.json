@@ -7,7 +7,7 @@
   "apaernet1" : [
     
     { "price" :120000},
-    {"metersSquared" : 122},
+    {"metersSquared" : 122}
     
     {
       
@@ -99,7 +99,7 @@
       
     
     
-  ]
+  
   }
   
   ]
