@@ -4,7 +4,7 @@
 
   {
   
-  "apaertmet1" : [
+  "apaertment1" : [
     
     { "price" :120000},
     {"metersSquared" : 122},
@@ -73,7 +73,7 @@
     
 
     
-        "apaertmet2" : [
+        "apaertment2" : [
           
           
           {"price" : 225000},
