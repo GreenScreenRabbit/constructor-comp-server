@@ -6,7 +6,7 @@
   
   "apartment1" : [
     
-    { "price" :120000},
+     "price" :120000,
     {"metersSquared" : 122},
     
     
@@ -76,7 +76,7 @@
         "apartment2" : [
           
           
-          {"price" : 225000},
+          "price" : 225000,
        
            
            {
