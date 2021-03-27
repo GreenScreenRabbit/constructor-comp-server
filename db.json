@@ -1,6 +1,6 @@
 {
 
-"apartments" : [
+"apartments" : 
 
   {
   
@@ -79,7 +79,7 @@
     
         "apartment2" : [
           
-          {"metersSquared":210},
+          
           {"price" : 225000},
        
            
@@ -205,7 +205,7 @@
 }
 
 
-]
+
 
 }
     
