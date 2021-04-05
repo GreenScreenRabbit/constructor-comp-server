@@ -1,134 +1,139 @@
 {
 
-"apartments" : [
-
+  "apartments" : [
   
+    
+    
+    {
+
+  "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
   
-  {
-      
-"price" : 120000,
+  "whatsOutside": [],
 
-
-"metersSquared" : 122,
-    
-    
-
-"rooms": [
-      
-    {
-      "name" :"room1",
-      "pictures" : [],
-      "metersSquared" :  36 
-    },
-    
-    
-    
-    {
-      "name" :"room2",
-      "pictures" : [],
-      "metersSquared" :  48 
-    },
-    
-    
-    
-    {
-      "name":"corridor",
-      "pictures" : [],
-      "metersSquared" : 12 
-    },
-    
-
-    
-    {
-        "name": "kitchen",
-        "pictures" : [],
-        "metersSquared" : 26 
-    }
-
-    
-
-
-    ],
-
-    "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
-
-    "whatsOutside": []
-
-  },
-    
-    
-
-
-    
-    
-
-
-    
-    
-  {
-          
-"price" : 225000,
-       
-"rooms": [
-
-
-
-    {
-      "name": "room1",
-      "picture": [],
-      "metersSquared" : 26 
-    },
-           
-
-
-    {
-      "name":"room2",
-      "pictures": [],
-      "metersSquared" : 48
-    },
-                     
         
-            
-    {  
-    "name":"room3",
-    "pictures": [],
-    "metersSquared" : 72
+  "price" : 120000,
+  
+  
+  "metersSquared" : 122,
+      
+      
+  
+  "rooms": [
+        
+      {
+        "name" :"room1",
+        "pictures" : [],
+        "metersSquared" :  36 
+      },
+      
+      
+      
+      {
+        "name" :"room2",
+        "pictures" : [],
+        "metersSquared" :  48 
+      },
+      
+      
+      
+      {
+        "name":"corridor",
+        "pictures" : [],
+        "metersSquared" : 12 
+      },
+      
+  
+      
+      {
+          "name": "kitchen",
+          "pictures" : [],
+          "metersSquared" : 26 
+      }
+  
+      
+  
+  
+      ]
+  
+
+  
     },
-       
-    
-            
+      
+      
+  
+  
+      
+      
+  
+  
+      
+      
     {
-    "name":"coridor",
-    "pictures": [],
-    "metersSquared" : 24
-    },
-    
-       
+
+  "homeInformation": "la-la la, la-la its cool apartment for 225 000$. la-la la, la la. bla-bla bla, bla bla. la-la la, bla bla. la-la la, bla bla.",
+  
+  "whatsOutside": [],
             
-    {
-    "name":"kitchen",
-    "pictures":[],
-    "metersSquared" : 40
-    }
-              
-  ]  
-                
+  "price" : 225000,
          
+  "rooms": [
+  
+  
+  
+      {
+        "name": "room1",
+        "picture": [],
+        "metersSquared" : 26 
+      },
+             
+  
+  
+      {
+        "name":"room2",
+        "pictures": [],
+        "metersSquared" : 48
+      },
+                       
+          
+              
+      {  
+      "name":"room3",
+      "pictures": [],
+      "metersSquared" : 72
+      },
+         
+      
+              
+      {
+      "name":"coridor",
+      "pictures": [],
+      "metersSquared" : 24
+      },
+      
+         
+              
+      {
+      "name":"kitchen",
+      "pictures":[],
+      "metersSquared" : 40
+      }
+                
+    ]  
+                  
+           
+    }
+  
+  
+  
+  
+  
+  
+  ]
+  
+  
+
+  
   }
-
-
-
-
-
-
-],
-
-
-"homeInformation": "la-la la, la-la its cool apartment for 225 000$. la-la la, la la. bla-bla bla, bla bla. la-la la, bla bla. la-la la, bla bla.",
-
-"whatsOutside": []
-
-}
-    
-    
-
+      
+      
+  
