@@ -17,7 +17,7 @@
   "price" : 120000,
   
   
-  "metersSquared" : 122,
+  "metersSquared" : 134,
       
       
   
@@ -51,6 +51,15 @@
           "name": "kitchen",
           "pictures" : [],
           "metersSquared" : 26 
+      },
+
+      {
+        "name": "bathroom",
+        "pictures" : [],
+        "metersSquared" : 12
+
+
+
       }
   
       
@@ -84,6 +93,8 @@
   ],
             
   "price" : 225000,
+
+  "metersSquared" : 222,
          
   "rooms": [
   
@@ -125,6 +136,16 @@
       "name":"kitchen",
       "pictures":[],
       "metersSquared" : 40
+      },
+
+
+      {
+        "name": "bathroom",
+        "pictures" : [],
+        "metersSquared" : 12
+
+
+
       }
                 
     ]  
