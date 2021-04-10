@@ -1,169 +1,200 @@
 {
 
-  "apartments" : [
-  
+    "apartments" : [
     
+      
+      
+      {
+  
+    "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
     
-    {
-
-  "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
+    "whatsOutside": [{"url":"https://www.hakaimagazine.com/wp-content/uploads/header-coastal-nuclear-plants.jpg"},
+                      {"url":"https://wallpaperaccess.com/full/3407629.jpg"},
+                      {"url":"https://www.ucarecdn.com/b41d3e95-5008-4cc4-9be6-ff4144769d79/-/stretch/off/-/preview/1050x1800/-/format/auto/-/quality/best/-/progressive/yes/"}
+                    ],
   
-  "whatsOutside": [{"url":"https://www.hakaimagazine.com/wp-content/uploads/header-coastal-nuclear-plants.jpg"},
-                    {"url":"https://wallpaperaccess.com/full/3407629.jpg"},
-                    {"url":"https://www.ucarecdn.com/b41d3e95-5008-4cc4-9be6-ff4144769d79/-/stretch/off/-/preview/1050x1800/-/format/auto/-/quality/best/-/progressive/yes/"}
-                  ],
-
-        
-  "price" : 120000,
-  
-  
-  "metersSquared" : 134,
-      
-      
-  
-  "rooms": [
-        
-      {
-        "name" :"room1",
-        "pictures" : [],
-        "metersSquared" :  36 
-      },
-      
-      
-      
-      {
-        "name" :"room2",
-        "pictures" : [],
-        "metersSquared" :  48 
-      },
-      
-      
-      
-      {
-        "name":"corridor",
-        "pictures" : [],
-        "metersSquared" : 12 
-      },
-      
-  
-      
-      {
-          "name": "kitchen",
-          "pictures" : [],
-          "metersSquared" : 26 
-      },
-
-      {
-        "name": "bathroom",
-        "pictures" : [],
-        "metersSquared" : 12
-
-
-
-      }
-  
-      
-  
-  
-      ]
-  
-
-  
-    },
-      
-      
-  
-  
-      
-      
-  
-  
-      
-      
-    {
-
-  "homeInformation": "la-la la, la-la its cool apartment for 225 000$. la-la la, la la. bla-bla bla, bla bla. la-la la, bla bla. la-la la, bla bla.",
-  
-  "whatsOutside": [
-                  {"url":"https://i.playground.ru/p/r57kyNqCg_ZHd-NTkmv5fw.jpeg"},
-                  {"url":"https://i.pinimg.com/originals/bb/c5/1c/bbc51c83cf3091d9b678ad9a0c2a3d12.png"},
-                  {"url":"https://i.redd.it/tzqqr1k560k01.jpg"}
-
-
-  ],
-            
-  "price" : 225000,
-
-  "metersSquared" : 222,
-         
-  "rooms": [
-  
-  
-  
-      {
-        "name": "room1",
-        "picture": [],
-        "metersSquared" : 26 
-      },
-             
-  
-  
-      {
-        "name":"room2",
-        "pictures": [],
-        "metersSquared" : 48
-      },
-                       
           
-              
-      {  
-      "name":"room3",
-      "pictures": [],
-      "metersSquared" : 72
+    "price" : 120000,
+    
+    
+    "metersSquared" : 134,
+        
+        
+    
+    "rooms": [
+          
+        {
+          "name" :"room1",
+          "pictures" : [],
+          "metersSquared" :  36 
+        },
+        
+        
+        
+        {
+          "name" :"room2",
+          "pictures" : [],
+          "metersSquared" :  48 
+        },
+        
+        
+        
+        {
+          "name":"corridor",
+          "pictures" : [],
+          "metersSquared" : 12 
+        },
+        
+    
+        
+        {
+            "name": "kitchen",
+            "pictures" : [],
+            "metersSquared" : 26 
+        },
+  
+        {
+          "name": "bathroom",
+          "pictures" : [],
+          "metersSquared" : 12
+  
+  
+  
+        }
+    
+        
+    
+    
+        ]
+    
+  
+    
       },
-         
-      
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+      {
+  
+    "homeInformation": "la-la la, la-la its cool apartment for 225 000$. la-la la, la la. bla-bla bla, bla bla. la-la la, bla bla. la-la la, bla bla.",
+    
+    "whatsOutside": [
+                    {"url":"https://i.playground.ru/p/r57kyNqCg_ZHd-NTkmv5fw.jpeg"},
+                    {"url":"https://i.pinimg.com/originals/bb/c5/1c/bbc51c83cf3091d9b678ad9a0c2a3d12.png"},
+                    {"url":"https://i.redd.it/tzqqr1k560k01.jpg"}
+  
+  
+    ],
               
-      {
-      "name":"coridor",
-      "pictures": [],
-      "metersSquared" : 24
-      },
-      
-         
-              
-      {
-      "name":"kitchen",
-      "pictures":[],
-      "metersSquared" : 40
-      },
-
-
-      {
-        "name": "bathroom",
-        "pictures" : [],
-        "metersSquared" : 12
-
-
-
-      }
-                
-    ]  
-                  
+    "price" : 225000,
+  
+    "metersSquared" : 222,
            
-    }
+    "rooms": [
+    
+    
+    
+        {
+          "name": "room1",
+          "picture": [],
+          "metersSquared" : 26 
+        },
+               
+    
+    
+        {
+          "name":"room2",
+          "pictures": [],
+          "metersSquared" : 48
+        },
+                         
+            
+                
+        {  
+        "name":"room3",
+        "pictures": [],
+        "metersSquared" : 72
+        },
+           
+        
+                
+        {
+        "name":"coridor",
+        "pictures": [],
+        "metersSquared" : 24
+        },
+        
+           
+                
+        {
+        "name":"kitchen",
+        "pictures":[],
+        "metersSquared" : 40
+        },
+  
+  
+        {
+          "name": "bathroom",
+          "pictures" : [],
+          "metersSquared" : 12
   
   
   
+        }
+                  
+      ]  
+                    
+             
+      }
+    
+    
+    
+    
+    
+    
+    ],
+    
   
   
+      "informationEmployees" : [
+          {
+          "id": 1,
+          "name": "Bot Albert",
+          "information": "give me ur money"
+      },
+      {
+          "id": 2,
+          "name": "Bot Allen",
+          "information": "give me ur money"
+      },
+      {
+          "id": 3,
+          "name": "Bot Bert",
+          "information": "give me ur money"
+      },
+      {
+          "id": 4,
+          "name": "Bot Clarence",
+          "information": "give me ur money"
+      },
+      {
+          "id": 5,
+          "name": "Bot Elmer",
+          "information": "give me ur money"
+      }
   
   ]
   
   
-
   
-  }
-      
-      
+    
+    
   
+    
+}
