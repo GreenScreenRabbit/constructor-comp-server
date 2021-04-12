@@ -5,6 +5,8 @@
       
       
       {
+          
+    "id" : 1,
   
     "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
     
@@ -81,6 +83,9 @@
         
         
       {
+          
+          
+    "id" : 2,
   
     "homeInformation": "la-la la, la-la its cool apartment for 225 000$. la-la la, la la. bla-bla bla, bla bla. la-la la, bla bla. la-la la, bla bla.",
     
