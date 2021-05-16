@@ -6,6 +6,8 @@
       
       {
           
+    "name": "apartment_1",
+          
     "id" : 1,
   
     "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
@@ -84,6 +86,7 @@
         
       {
           
+    "name": "apartmen_2"
           
     "id" : 2,
   
