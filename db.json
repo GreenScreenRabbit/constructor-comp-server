@@ -8,6 +8,8 @@
           
     "name": "apartment_1",
           
+    "picturesHouseitself": [],
+          
     "id" : 1,
   
     "homeInformation": "bla-bla bla, bla-bla its cool apartment for 120 000$. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla. bla-bla bla, bla bla.",
@@ -87,6 +89,8 @@
       {
           
     "name": "apartmen_2",
+          
+    "picturesHouseitself": [],
           
     "id" : 2,
   
