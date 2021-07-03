@@ -178,27 +178,27 @@
           {
           "id": 1,
           "name": "Bot Albert",
-          "information": "give me ur money"
+          "information": "some information"
       },
       {
           "id": 2,
           "name": "Bot Allen",
-          "information": "give me ur money"
+          "information": "some information"
       },
       {
           "id": 3,
           "name": "Bot Bert",
-          "information": "give me ur money"
+          "information": "some information"
       },
       {
           "id": 4,
           "name": "Bot Clarence",
-          "information": "give me ur money"
+          "information": "some information"
       },
       {
           "id": 5,
           "name": "Bot Elmer",
-          "information": "give me ur money"
+          "information": "some information"
       }
   
   ]
